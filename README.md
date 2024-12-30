@@ -18,8 +18,5 @@ Then, experimented with Python to expand such learning using:
 - Scripy.optimize
 - Sklearn.metrics
 
-# Try It Out!
-Download the .ipynb and requirements.txt files from the repo.
-Install the dependencies in the .txt file. pip install -r dependencies.txt in the terminal with dependencies.txt in your root directory.
-Change the ticker on line 3 to any valid ticker
-Run the .ipynb file in an environment of your choice.
+# Try out the experimentation!
+Download the .ipynb file and change the ticker on line 3 to any valid ticker!
