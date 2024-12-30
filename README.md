@@ -17,6 +17,3 @@ Then, experimented with Python to expand such learning using:
 - Matplotlib
 - Scripy.optimize
 - Sklearn.metrics
-
-# Try out the experimentation!
-Download the .ipynb file and change the ticker on line 3 to any valid ticker!
