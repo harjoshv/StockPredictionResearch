@@ -10,5 +10,10 @@ Initially researched through pure mathematics using concepts including:
 - Coefficient of determination using r^2 to evaluate models
 - Other methods of statistical analysis
 
-Then, experimented with python to expand such learning using:
-- Python 
+Then, experimented with Python to expand such learning using:
+- YFinance
+- Pandas
+- Numpy
+- Matplotlib
+- Scripy.optimize
+- Sklearn.metrics
